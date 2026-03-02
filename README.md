@@ -7,5 +7,5 @@ Luego instalar python abriendo el terminal de kali linux y usando el comando sud
 Clona este repositorio, modifica el script "port-scanner-banner-grabber" en caso de ser necesario
 # Nota: Si sera necesario porque necesitaras cambiar a la direccion Ip requerida
 Mediante el terminal navega hasta la carpeta donde descargaste el script y ejecutalo con el comando python3 al inicio
-# Ejemplo: python3 port-scanner-banner-grabber
+# Ejemplo: python3 port-scanner-banner-grabber.py
 Y listo
